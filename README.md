@@ -75,18 +75,6 @@ Provider-agnostic agentic RAG system built with LangGraph, Qdrant, and hybrid BM
 
 ---
 
-## 🏆 Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahitha-muppalaneni&theme=flat&no-frame=true&column=5&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/mahitha-muppalaneni/mahitha-muppalaneni/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌱 Currently
 
 - 🏗️ Finishing **DocuQuery** — agentic RAG with a switchable LLM backend
@@ -110,4 +98,4 @@ I care about building things that work in production, not just in notebooks.
 
 ---
 
-*Melbourne, VIC · Available for sponsorship-eligible roles*
+*Melbourne, AU · Open to roles across Australia*
